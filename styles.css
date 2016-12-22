@@ -51,6 +51,10 @@ html, body {
   margin: 0 auto;
 }
 
+#page-content {
+  padding-bottom: 32px;
+}
+
 #page-content h1 {
   margin-top: 16px;
   margin-bottom: 16px;
@@ -62,17 +66,54 @@ html, body {
 
 #page-content h2 {
   margin: 0;
+  margin-top: -2px;
+  text-indent: 24px;
   line-height: 48px;
   font-size: 16px;
-  font-weight: 400;
-  color: #1d1d1d;
+  font-weight: 600;
+  color: #1d785f;
+  border-radius: 2px;
+  border: 1px solid #b6d3cb;
+  background-color: #edf5f3;
+  cursor: pointer;
+  transition: all 0.15s linear;
+}
+
+#page-content h2:hover {
+  background-color: #dbe9e5;
+  text-shadow: 0px 1px 0px #fff;
+}
+
+#page-content h2.expanded {
+  background-color: #dbe9e5;
+  margin-bottom: 0;
+  border-bottom-color: transparent;
+  border-radius: 2px 2px 0px 0px;
+  text-shadow: 0px 1px 0px #fff;
+  color: #1d785f;
+}
+
+#page-content h2.expanded:hover {
+  opacity: 0.84;
 }
 
 #page-content ul {
+  display: none;
   margin: 0;
-  margin-bottom: 32px;
-  padding: 0;
+  margin-top: -2px;
+  padding: 16px 0;
+  border-left: 1px solid transparent;
+  border-right: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+  border-radius: 0px 0px 2px 2px;
   list-style-type: none;
+}
+
+#page-content ul.expanded {
+  display: block;
+  border-left-color: #b6d3cb;
+  border-right-color: #b6d3cb;
+  border-bottom-color: #b6d3cb;
 }
 
 #page-content ul li {
@@ -84,6 +125,7 @@ html, body {
   display: block;
   line-height: 24px;
   font-size: 12px;
+  text-indent: 24px;
   font-weight: 400;
   font-family: "Droid Sans Mono";
   color: #1d785f;
