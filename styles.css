@@ -136,3 +136,7 @@ html, body {
   opacity: 0.5;
   text-shadow: 0px 1px 0px #e9f1ef;
 }
+
+#page-content ul li strong a {
+  font-weight: 600;
+}
