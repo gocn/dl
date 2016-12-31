@@ -28,10 +28,8 @@ html, body {
 
 #page-header {
   background-color: #1d785f;
-  height: 40px;
+  height: 64px;
   margin: 0;
-  padding-top: 12px;
-  padding-bottom: 12px;
 }
 
 #page-header h1 {
@@ -43,12 +41,65 @@ html, body {
   background-size: cover;
   text-indent: -2016px;
   overflow: hidden;
+  margin: 12px 0;
+}
+
+#page-header nav {
+  display: block;
+  max-width: 200px;
   margin: 0;
+  padding: 0;
 }
 
 .inner-wrapper {
   width: 84%;
   margin: 0 auto;
+}
+
+#page-header .inner-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#page-header nav ul {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0;
+  margin: 16px 0;
+  list-style-type: none;
+}
+
+#page-header nav li {
+  line-height: 32px;
+  margin-left: 8px;
+}
+
+#page-header nav li:first-child {
+  margin-left: 0;
+}
+
+#page-header nav a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 600;
+  padding: 0 16px;
+  border-radius: 16px;
+  text-shadow: 0px 0px 1px #888;
+}
+
+#page-header nav a.active {
+  background-color: #4b9a85;
+}
+
+#page-header nav a:hover,
+#page-header nav a:active,
+#page-header nav a.active:hover,
+#page-header nav a.active:active {
+  background-color: #29876f;
 }
 
 #page-content {
@@ -140,3 +191,4 @@ html, body {
 #page-content ul li strong a {
   font-weight: 600;
 }
+
