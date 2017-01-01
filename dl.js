@@ -1,18 +1,26 @@
 (function () {
-  var elVersionHeaders = document.querySelectorAll("#page-content h2");
-  var elVersionContents = document.querySelectorAll("#page-content ul");
-  var len = elVersionHeaders.length;
+  var elHeaders = document.querySelectorAll(".page-content h2");
+  var elContents = document.querySelectorAll(".page-content ul");
+  var len = elHeaders.length;
 
-  elVersionHeaders[0].className = "expanded";
-  elVersionContents[0].className = "expanded";
-  elVersionContents[len - 1].className = "expanded";
-  elVersionContents[len - 1].className = "expanded";
+  console.log(elHeaders, elContents);
+
+  elHeaders[0].className = "expanded";
+  elContents[0].className = "expanded";
+  elContents[len - 1].className = "expanded";
+  elContents[len - 1].className = "expanded";
 
   for (var i = 0; i < len; i++) {
-    elVersionHeaders[i].onclick = (function (i) {
+
+    if (window.pageId === "editor") {
+      elHeaders[i].className = "expanded";
+      elContents[i].className = "expanded";
+    }
+
+    elHeaders[i].onclick = (function (i) {
       return function (event) {
-        elVersionHeaders[i].className = elVersionHeaders[i].className === "expanded" ? "" : "expanded";
-        elVersionContents[i].className = elVersionContents[i].className === "expanded" ? "" : "expanded";
+        elHeaders[i].className = elHeaders[i].className === "expanded" ? "" : "expanded";
+        elContents[i].className = elContents[i].className === "expanded" ? "" : "expanded";
       };
     })(i);
   }
