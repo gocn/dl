@@ -9,11 +9,29 @@
 - [liteidex30.3.windows-qt4.zip](editor/liteide/liteidex30.3.windows-qt4.zip)
 - [liteidex30.3.windows-qt5.zip](editor/liteide/liteidex30.3.windows-qt5.zip)
 
-## Sublime
+## Sublime3(3126)
+- [OS X](editor/sublime/Sublime Text Build 3126.dmg)
+- [Windows](editor/sublime/Sublime Text Build 3126 Setup.exe) 
+- [Windows portable version](editor/sublime/Sublime Text Build 3126.zip)
+- [Windows 64 bit](editor/sublime/Sublime Text Build 3126 x64 Setup.exe) 
+- [Windows 64 bit portable version](editor/sublime/Sublime Text Build 3126 x64.zip)
+- [Ubuntu 64 bit](editor/sublime/sublime-text_build-3126_amd64.deb) 
+- [Linux tarball](editor/sublime/sublime_text_3_build_3126_x64.tar.bz2)
+- [Ubuntu 32 bit](editor/sublime/sublime-text_build-3126_i386.deb) 
+- [Linux 32 tarball](editor/sublime/sublime_text_3_build_3126_x32.tar.bz2)
 
-## VS Code
+## VS Code(1.8.1)
+- [Windows](editor/vscode/VSCodeSetup-1.8.1.exe) 
+- [Windows zip](editor/vscode/VSCode-win32-1.8.1.zip)
+- [Mac](editor/vscode/VSCode-darwin-stable.zip)
+- [Linux .deb](editor/vscode/code_1.8.1-1482158209_amd64.deb)
+- [Linux .rpm](editor/vscode/code-1.8.1-1482158209.el7.x86_64.rpm)
+- [Linux .tar.gz](editor/vscode/code-stable-code_1.8.1-1482158209_amd64.tar.gz)
+- [Linux .deb 32bit](editor/vscode/code_1.8.1-1482159060_i386.deb)
+- [Linux .rpm 32bit](editor/vscode/code-1.8.1-1482159060.el7.i386.rpm)
+- [Linux .tar.gz 32bit](editor/vscode/code-stable-code_1.8.1-1482159060_i386.tar.gz)
 
-## Gogland
+## Gogland(163.10154.18)
 - [Mac](editor/gogland/gogland-163.10154.18.dmg)
 - [Linux](editor/gogland/gogland-163.10154.18.tar.gz)
 - [Windows](editor/gogland/gogland-163.10154.18.exe)
