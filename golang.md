@@ -1,4 +1,36 @@
 # Stable versions
+## Go 1.8
+- **[go1.8.src.tar.gz](https://dl.gocn.io/golang/1.8/go1.8.src.tar.gz)**
+- [go1.8.darwin-amd64.tar.gz](https://dl.gocn.io/golang/1.8/go1.8.darwin-amd64.tar.gz)
+- **[go1.8.darwin-amd64.pkg](https://dl.gocn.io/golang/1.8/go1.8.darwin-amd64.pkg)**
+- [go1.8.freebsd-386.tar.gz](https://dl.gocn.io/golang/1.8/go1.8.freebsd-386.tar.gz)
+- [go1.8.freebsd-amd64.tar.gz](https://dl.gocn.io/golang/1.8/go1.8.freebsd-amd64.tar.gz)
+- [go1.8.linux-386.tar.gz](https://dl.gocn.io/golang/1.8/go1.8.linux-386.tar.gz)
+- **[go1.8.linux-amd64.tar.gz](https://dl.gocn.io/golang/1.8/go1.8.linux-amd64.tar.gz)**
+- [go1.8.linux-armv6l.tar.gz](https://dl.gocn.io/golang/1.8/go1.8.linux-armv6l.tar.gz)
+- [go1.8.linux-ppc64le.tar.gz](https://dl.gocn.io/golang/1.8/go1.8.linux-ppc64le.tar.gz)
+- [go1.8.linux-s390x.tar.gz](https://dl.gocn.io/golang/1.8/go1.8.linux-s390x.tar.gz)
+- [go1.8.windows-386.zip](https://dl.gocn.io/golang/1.8/go1.8.windows-386.zip)
+- [go1.8.windows-386.msi](https://dl.gocn.io/golang/1.8/go1.8.windows-386.msi)
+- [go1.8.windows-amd64.zip](https://dl.gocn.io/golang/1.8/go1.8.windows-amd64.zip)
+- **[go1.8.windows-amd64.msi](https://dl.gocn.io/golang/1.8/go1.8.windows-amd64.msi)**
+
+## Go 1.7.5
+- **[go1.7.5.src.tar.gz](https://dl.gocn.io/golang/1.7.5/go1.7.5.src.tar.gz)**
+- [go1.7.5.darwin-amd64.tar.gz](https://dl.gocn.io/golang/1.7.5/go1.7.5.darwin-amd64.tar.gz)
+- **[go1.7.5.darwin-amd64.pkg](https://dl.gocn.io/golang/1.7.5/go1.7.5.darwin-amd64.pkg)**
+- [go1.7.5.freebsd-386.tar.gz](https://dl.gocn.io/golang/1.7.5/go1.7.5.freebsd-386.tar.gz)
+- [go1.7.5.freebsd-amd64.tar.gz](https://dl.gocn.io/golang/1.7.5/go1.7.5.freebsd-amd64.tar.gz)
+- [go1.7.5.linux-386.tar.gz](https://dl.gocn.io/golang/1.7.5/go1.7.5.linux-386.tar.gz)
+- **[go1.7.5.linux-amd64.tar.gz](https://dl.gocn.io/golang/1.7.5/go1.7.5.linux-amd64.tar.gz)**
+- [go1.7.5.linux-armv6l.tar.gz](https://dl.gocn.io/golang/1.7.5/go1.7.5.linux-armv6l.tar.gz)
+- [go1.7.5.linux-ppc64le.tar.gz](https://dl.gocn.io/golang/1.7.5/go1.7.5.linux-ppc64le.tar.gz)
+- [go1.7.5.linux-s390x.tar.gz](https://dl.gocn.io/golang/1.7.5/go1.7.5.linux-s390x.tar.gz)
+- [go1.7.5.windows-386.zip](https://dl.gocn.io/golang/1.7.5/go1.7.5.windows-386.zip)
+- [go1.7.5.windows-386.msi](https://dl.gocn.io/golang/1.7.5/go1.7.5.windows-386.msi)
+- [go1.7.5.windows-amd64.zip](https://dl.gocn.io/golang/1.7.5/go1.7.5.windows-amd64.zip)
+- **[go1.7.5.windows-amd64.msi](https://dl.gocn.io/golang/1.7.5/go1.7.5.windows-amd64.msi)**
+
 ## Go 1.7.4
 - **[go1.7.4.src.tar.gz](https://dl.gocn.io/golang/1.7.4/go1.7.4.src.tar.gz)**
 - [go1.7.4.darwin-amd64.tar.gz](https://dl.gocn.io/golang/1.7.4/go1.7.4.darwin-amd64.tar.gz)
