@@ -516,3 +516,19 @@
 - [go1.2.2.windows-386.msi](https://dl.gocn.io/golang/1.2.2/go1.2.2.windows-386.msi)
 - [go1.2.2.windows-amd64.zip](https://dl.gocn.io/golang/1.2.2/go1.2.2.windows-amd64.zip)
 - **[go1.2.2.windows-amd64.msi](https://dl.gocn.io/golang/1.2.2/go1.2.2.windows-amd64.msi)**
+
+## Go 1.10beta1
+- **[go1.10beta1.src.tar.gz](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.src.tar.gz)**
+- [go1.10beta1.darwin-amd64.tar.gz](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.darwin-amd64.tar.gz)
+- **[go1.10beta1.darwin-amd64.pkg](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.darwin-amd64.pkg)**
+- [go1.10beta1.freebsd-386.tar.gz](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.freebsd-386.tar.gz)
+- [go1.10beta1.freebsd-amd64.tar.gz](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.freebsd-amd64.tar.gz)
+- [go1.10beta1.linux-386.tar.gz](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.linux-386.tar.gz)
+- **[go1.10beta1.linux-amd64.tar.gz](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.linux-amd64.tar.gz)**
+- [go1.10beta1.linux-armv6l.tar.gz](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.linux-armv6l.tar.gz)
+- [go1.10beta1.linux-ppc64le.tar.gz](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.linux-ppc64le.tar.gz)
+- [go1.10beta1.linux-s390x.tar.gz](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.linux-s390x.tar.gz)
+- [go1.10beta1.windows-386.zip](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.windows-386.zip)
+- [go1.10beta1.windows-386.msi](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.windows-386.msi)
+- [go1.10beta1.windows-amd64.zip](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.windows-amd64.zip)
+- **[go1.10beta1.windows-amd64.msi](https://dl.gocn.io/golang/1.10beta1/go1.10beta1.windows-amd64.msi)**
